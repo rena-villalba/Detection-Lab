@@ -20,11 +20,12 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Steps
 
 Pre-Conditions:
+- Configuring the static IP address for both VM's
 - On the Target Machine we have to enable Remote Desktop Procedure (RDP)
 - Also disable Real-Time Protection on Windows Security
 
 *Img 1: Network Diagram*<br>
-<img width="383" alt="Screenshot 2025-02-15 210717" src="https://github.com/user-attachments/assets/e7244e32-bf92-4180-a6c6-36677545fd8b" />
+![Detection Lab](https://github.com/user-attachments/assets/8ca18197-af03-4ab2-bef7-d17aceb79be5)
 
 *Img 2: Port Scanning from the attacker machine (Reconnaissance)*<br>
 <img width="887" alt="2 port_scanning" src="https://github.com/user-attachments/assets/369c751b-02ed-4710-8c55-11fd5010b112" />
